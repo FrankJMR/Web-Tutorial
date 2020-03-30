@@ -1,0 +1,20 @@
+{
+    "firstName": "Frank",
+    "lastName": "Martinez",
+    "nickName": "Frankie",
+    "favoriteColor": "Green",
+    "email": "frankjmartinez@lewisu.edu",
+    "tenFavoriteMovies": [
+        "Memento",
+        "Avengers infinity war",
+        "Inception",
+        "Dark Knight",
+        "The truman show",
+        "Reservoir Dogs",
+        "Interstellar",
+        "City Of God",
+        "Gran torino",
+        "Toyland"
+        
+    ]
+}
